@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on blog@falon.dev</title>
-    <link>//localhost:1313/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on blog@falon.dev</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Dec 2025 18:48:08 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Aug 2024 10:23:24 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simulating Frc Robots</title>
-      <link>//localhost:1313/posts/simulating-frc-robots/</link>
-      <pubDate>Wed, 17 Dec 2025 18:48:08 -0500</pubDate>
-      <guid>//localhost:1313/posts/simulating-frc-robots/</guid>
-      <description></description>
+      <link>http://localhost:1313/posts/simulating-frc-robots/</link>
+      <pubDate>Sat, 24 Aug 2024 10:23:24 -0400</pubDate>
+      <guid>http://localhost:1313/posts/simulating-frc-robots/</guid>
+      <description>&lt;p&gt;Alright! Big project writeup time. I&amp;rsquo;ve recently been messing around with improving the simulation capabilities of my FRC team, 2537: The Space RAIDers. In the process of doing this I&amp;rsquo;ve done a lot of interesting things, so I&amp;rsquo;m putting them on paper so other people can learn from what I&amp;rsquo;ve done.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

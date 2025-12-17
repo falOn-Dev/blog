@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog@falon.dev</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on blog@falon.dev</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 17 Dec 2025 18:35:32 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portfolio</title>
-      <link>//localhost:1313/portfolio/</link>
+      <link>http://localhost:1313/portfolio/</link>
       <pubDate>Wed, 17 Dec 2025 18:35:32 -0500</pubDate>
-      <guid>//localhost:1313/portfolio/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;//localhost:1313/img/crescendo_sim_demo.png&#34;&#xA;    alt=&#34;FRC Robot Simulation&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;FRC Robot Simulation&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/crescendo_sim_demo.png&#34;&#xA;    alt=&#34;FRC Robot Simulation&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;FRC Robot Simulation&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 17 Dec 2025 18:32:25 -0500</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h1 id=&#34;hello-im-falon-&#34;&gt;Hello, I&amp;rsquo;m FalOn! 👋&lt;/h1&gt;&#xA;&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a teen developer with a passion for robotics, particularly in the field of control systems. Operating out of Maryland, I am currently the Software Development Lead for FRC Team 2537. In addition to my robotics endeavors, I am homeschooled and actively working towards an Associate&amp;rsquo;s degree in Computer Science.&lt;/p&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🖥️ &lt;strong&gt;C++&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;🤖 &lt;strong&gt;Robotics&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;🦀 &lt;strong&gt;Rust&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;☕ &lt;strong&gt;Java&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;📱 &lt;strong&gt;Kotlin&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;⚙️ &lt;strong&gt;Control Systems&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://leetcard.jacoblin.cool/Tatiman-Dev&#34; alt=&#34;Leetcode Stats&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Simulating Frc Robots</title>
-      <link>//localhost:1313/posts/simulating-frc-robots/</link>
+      <link>http://localhost:1313/posts/simulating-frc-robots/</link>
       <pubDate>Sat, 24 Aug 2024 10:23:24 -0400</pubDate>
-      <guid>//localhost:1313/posts/simulating-frc-robots/</guid>
+      <guid>http://localhost:1313/posts/simulating-frc-robots/</guid>
       <description>&lt;p&gt;Alright! Big project writeup time. I&amp;rsquo;ve recently been messing around with improving the simulation capabilities of my FRC team, 2537: The Space RAIDers. In the process of doing this I&amp;rsquo;ve done a lot of interesting things, so I&amp;rsquo;m putting them on paper so other people can learn from what I&amp;rsquo;ve done.&lt;/p&gt;</description>
     </item>
   </channel>

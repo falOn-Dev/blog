@@ -1,3 +1,4 @@
+baseURL = "https://blog.falon.dev/"
 languageCode = 'en-us'
 title = 'blog@falon.dev'
 theme = "terminal"
