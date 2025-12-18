@@ -6,6 +6,10 @@ theme = "terminal"
 [params]
 readMore = "Read more"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [languages]
   [languages.en]
     languageName = "English"
