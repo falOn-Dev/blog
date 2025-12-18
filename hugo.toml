@@ -1,4 +1,6 @@
 baseURL = "https://blog.falon.dev/"
+relativeURLs = false
+canonifyURLs = true
 languageCode = 'en-us'
 title = 'blog@falon.dev'
 theme = "terminal"
